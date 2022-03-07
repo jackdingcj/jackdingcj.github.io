@@ -6,7 +6,7 @@
   <link href="https://jackdingcj.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackdingcj.github.io/"/>
-  <updated>2021-09-07T14:52:39.538Z</updated>
+  <updated>2022-03-07T14:40:20.052Z</updated>
   <id>https://jackdingcj.github.io/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>01-第一篇博客</title>
+    <link href="https://jackdingcj.github.io/posts/2.html"/>
+    <id>https://jackdingcj.github.io/posts/2.html</id>
+    <published>2022-03-07T14:31:03.000Z</published>
+    <updated>2022-03-07T14:40:20.052Z</updated>
+    
+    <content type="html"><![CDATA[<p>新的开始</p><h3 id="建站的起点"><a href="#建站的起点" class="headerlink" title="建站的起点"></a>建站的起点</h3><p>对于建站以来的一些想法，之前就建立过新的博客 ,用的是树莓派+Wordpress 搭建起来的动态博客。可总归一些其他的想法，就把树莓派用做其他用途了。感觉自己不是很想用内网穿透的方式来建立链接，于是索性就把他当做一个内网的小网站。这次也是偶然的一个机会，通过深入的接触和“权衡”下，喜欢上了以这样的方式搭建的博客。觉得用现在的方式来重新搭建起博客系统。当然也是一边学习一边来跟着搭建。这里要感谢开源的大佬们。十分感谢！！</p><h3 id="Blog的定位"><a href="#Blog的定位" class="headerlink" title="Blog的定位"></a>Blog的定位</h3><p>我想，博客还是当做一个Home。记录一下生活里的随笔儿和作为技术栈，对于现在博客来说，是刚刚把所用的配置打通，把基础的配置刚刚搭建，后续的配置需要今后不断地完善和丰富。</p><h3 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h3><p>其实写这一篇博客的时候，也是有些急促。虽然感受颇多，但落到文字上的不是很多。也希望在今后的文章中，不断总结，不断改进。</p><p>以下算作是寄语叭</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">自己要不断地学习，为自己喜欢的不断努力。好奇心才是自己最大的动力。心中留一份美好，珍惜时光，珍惜良人~好啦，先写这些叭。<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;新的开始&lt;/p&gt;
+&lt;h3 id=&quot;建站的起点&quot;&gt;&lt;a href=&quot;#建站的起点&quot; class=&quot;headerlink&quot; title=&quot;建站的起点&quot;&gt;&lt;/a&gt;建站的起点&lt;/h3&gt;&lt;p&gt;对于建站以来的一些想法，之前就建立过新的博客 ,用的是树莓派+Wordpress 搭建起来的</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://jackdingcj.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="随笔" scheme="https://jackdingcj.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客与博主</title>
     <link href="https://jackdingcj.github.io/posts/1.html"/>
     <id>https://jackdingcj.github.io/posts/1.html</id>
     <published>2021-05-27T13:00:00.000Z</published>
-    <updated>2021-09-07T14:52:39.538Z</updated>
+    <updated>2022-03-07T13:30:49.229Z</updated>
     
-    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"> 《自由与爱情》---作者:裴多菲​ 生命诚可贵​ 爱情价更高​ 若为自由故​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
+    <content type="html"><![CDATA[<p>相遇皆是缘分</p><h3 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h3><p>肿么说了! 纯属个人兴趣，好玩，唉，就是玩!嘻嘻! 会有些成就感吧,拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p><h3 id="展望博客"><a href="#展望博客" class="headerlink" title="展望博客"></a>展望博客</h3><p>我会整理一些个人所学的知识（学前端的，也会捣鼓捣鼓一些其它的专业的知识）或生活方面有兴趣的事发到博客上供大家观摩</p><h3 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h3><p>有位可爱的（小）朋友，给我取名叫 “仙气”，这是也是我博客上自居 “仙气” 的由来。喜欢自己所喜欢的，做自己想做的，追求自由与潇洒，多酷啊！ 想法是美好的，可现实… …   给大家推荐一首诗吧</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">《自由与爱情》---作者:裴多菲  ​ 生命诚可贵  ​ 爱情价更高  ​ 若为自由故  ​ 二者皆可抛<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>溜溜球啦！</p>]]></content>
     
     
       
