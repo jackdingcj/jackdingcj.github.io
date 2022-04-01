@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>第二篇博客</title>
+      <link href="/posts/3.html"/>
+      <url>/posts/3.html</url>
+      
+        <content type="html"><![CDATA[<p>哎嘿嘿</p><h3 id="关于更新"><a href="#关于更新" class="headerlink" title="关于更新"></a>关于更新</h3><p>emmmm,已经很长时间没有更新了，（也不知咋想的）。可能生活上真的有些忙叭。不过还好，自己还记得要学习感兴趣的知识，有空就学习些小的DEMO。</p><h3 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h3><p>之后会继续更新下去，也是自己对生活的一份见证。</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">一直以来 在心中的梦想是用一生 改变这个世界一直以来 这闪光的心愿指引我穿行世界<span class="token punctuation">..</span>.                                   -----许巍《救赎之旅》<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>01-第一篇博客</title>
       <link href="/posts/2.html"/>
       <url>/posts/2.html</url>

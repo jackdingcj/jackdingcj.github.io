@@ -6,7 +6,7 @@
   <link href="https://jackdingcj.github.io/atom.xml" rel="self"/>
   
   <link href="https://jackdingcj.github.io/"/>
-  <updated>2022-03-07T14:40:20.052Z</updated>
+  <updated>2022-04-01T08:18:33.044Z</updated>
   <id>https://jackdingcj.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二篇博客</title>
+    <link href="https://jackdingcj.github.io/posts/3.html"/>
+    <id>https://jackdingcj.github.io/posts/3.html</id>
+    <published>2022-04-01T07:47:49.000Z</published>
+    <updated>2022-04-01T08:18:33.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>哎嘿嘿</p><h3 id="关于更新"><a href="#关于更新" class="headerlink" title="关于更新"></a>关于更新</h3><p>emmmm,已经很长时间没有更新了，（也不知咋想的）。可能生活上真的有些忙叭。不过还好，自己还记得要学习感兴趣的知识，有空就学习些小的DEMO。</p><h3 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h3><p>之后会继续更新下去，也是自己对生活的一份见证。</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">一直以来 在心中的梦想是用一生 改变这个世界一直以来 这闪光的心愿指引我穿行世界<span class="token punctuation">..</span>.                                   -----许巍《救赎之旅》<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;哎嘿嘿&lt;/p&gt;
+&lt;h3 id=&quot;关于更新&quot;&gt;&lt;a href=&quot;#关于更新&quot; class=&quot;headerlink&quot; title=&quot;关于更新&quot;&gt;&lt;/a&gt;关于更新&lt;/h3&gt;&lt;p&gt;emmmm,已经很长时间没有更新了，（也不知咋想的）。可能生活上真的有些忙叭。不过还好，自己还记得要学</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://jackdingcj.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="https://jackdingcj.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>01-第一篇博客</title>
